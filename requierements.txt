@@ -1,0 +1,5 @@
+openai # para usar la API de OpenAI
+redlines # para dibujar lineas rojas en el cuaderno comparando con el original
+panel # para paneles en el cuaderno
+
+jupyter_bokeh # para graficos interactivos necesarios para el cuaderno
