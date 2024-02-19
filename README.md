@@ -1,4 +1,9 @@
-### Curso sobre prompt en ChatGPT 3.5/4.0 DeepLearing.AI
-### Uso sólo educacional
+# Prompt course in ChatGPT 3.5/4.0 DeepLearing.AI
+## Educational use only
+## Juptyer Notebook Format
 
-Formato Juptyer Notebook
+[ESP]
+## Curso sobre prompt en ChatGPT 3.5/4.0 DeepLearing.AI
+## Uso sólo educacional
+
+### Formato Juptyer Notebook
